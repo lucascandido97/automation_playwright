@@ -1,0 +1,25 @@
+{
+  "name": "automation_playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascandido97/automation_playwright.git"
+  },
+  "keywords": [],
+  "author": "Lucas Candido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucascandido97/automation_playwright/issues"
+  },
+  "homepage": "https://github.com/lucascandido97/automation_playwright#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
