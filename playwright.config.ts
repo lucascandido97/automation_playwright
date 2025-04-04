@@ -70,7 +70,7 @@ export default defineConfig({
   testDir: './tests',
 
   use: {
-    baseURL: 'https://www.automationexercise.com',
+    baseURL: 'https://www.amazon.com.br/',
     colorScheme: 'dark',
     geolocation: { longitude: -23.5505, latitude: -46.6333 },
     locale: 'en-US',
